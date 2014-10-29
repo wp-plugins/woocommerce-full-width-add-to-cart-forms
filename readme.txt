@@ -1,11 +1,11 @@
 === WooCommerce Full-Width Add to Cart Forms ===
 
-Contributors: franticpsyx, woothemes
+Contributors: franticpsyx
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=psyx@somewherewarm.net&item_name=Donation+for+WooCommerce+Full+Width+Forms
 Tags: woocommerce, composite, bundle, form, add-to-cart, template, full-width, layout
 Requires at least: 3.7.0
 Tested up to: 4.0.0
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -19,7 +19,7 @@ However, this layout is not particularly suitable for complex product types, suc
 
 If you are having issues with very narrow or squeezed product add-to-cart forms, you can use this plugin to move the add-to-cart form under the product image and summary section. 
 
-The plugin adds an "Add-to-Cart Form Layout" section under "WooCommerce->Settings->Products", where you can select which product types should use the modified, full-width layout.
+The plugin adds an "Add-to-Cart Form Layout" section under "WooCommerce→Settings→Products", where you can select which product types should use the modified, full-width layout.
 
 == Installation ==
 
@@ -29,7 +29,7 @@ The plugin adds an "Add-to-Cart Form Layout" section under "WooCommerce->Setting
 
 == Changelog ==
 
-= 1.1.1 =
+= 1.1.2 =
 * Fixed credits.
 
 = 1.1 =
@@ -41,4 +41,4 @@ The plugin adds an "Add-to-Cart Form Layout" section under "WooCommerce->Setting
 == Upgrade Notice ==
 
 = 1.1.1 =
-Added settings under the "Add-to-Cart Form Layout" section found in "WooCommerce->Settings->Products".
+Added settings under the "Add-to-Cart Form Layout" section found in "WooCommerce→Settings→Products".
