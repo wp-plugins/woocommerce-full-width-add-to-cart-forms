@@ -30,15 +30,7 @@ The plugin adds an "Add-to-Cart Form Layout" section under "WooCommerce→Settin
 == Changelog ==
 
 = 1.1.2 =
-* Fixed credits.
-
-= 1.1 =
-* Feature - Added settings under the "Add-to-Cart Form Layout" section found in "WooCommerce->Settings->Products".
-
-= 1.0 =
 * Initial version.
 
 == Upgrade Notice ==
 
-= 1.1.1 =
-Added settings under the "Add-to-Cart Form Layout" section found in "WooCommerce→Settings→Products".
