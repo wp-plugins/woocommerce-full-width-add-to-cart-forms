@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=psyx@som
 Tags: woocommerce, composite, bundle, form, add-to-cart, template, full-width, layout
 Requires at least: 3.7.0
 Tested up to: 4.0.0
-Stable tag: 1.1.2
+Stable tag: 1.1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,7 +29,7 @@ The plugin adds an "Add-to-Cart Form Layout" section under "WooCommerce→Settin
 
 == Changelog ==
 
-= 1.1.2 =
+= 1.1.3 =
 * Initial version.
 
 == Upgrade Notice ==

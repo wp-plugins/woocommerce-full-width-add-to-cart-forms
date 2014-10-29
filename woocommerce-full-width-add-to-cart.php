@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce Full-Width Add to Cart Forms
 Description: Used to optimize the add-to-cart form layout of complex WooCommerce product types, which may appear very narrow or squeezed.
-Version:     1.1.2
+Version:     1.1.3
 Author:      SomewhereWarm
 Author URI:  http://www.somewherewarm.net
 */
